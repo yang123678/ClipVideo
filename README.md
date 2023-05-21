@@ -6,6 +6,6 @@
 
 ## 整个软件包含两个模块
 
-BXC_ClipVideo C++
+ClipVideo C++
 
-BXC_ClipVideoAlgorithm Python
+ClipVideoAlgorithm Python
