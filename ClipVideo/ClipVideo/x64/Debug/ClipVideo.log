@@ -1,0 +1,35 @@
+﻿  Analyzer.cpp
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(61,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(73,73): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(90,69): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Common.h(122,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Analyzer.cpp(45,34): warning C4305: “=”: 从“double”到“float”截断
+  AvPullStream.cpp
+E:\Project\bxc\BXC_ClipVideo\3rdparty\windows\ffmpeg\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(61,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(73,73): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(90,69): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Common.h(122,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\AvPullStream.cpp(46,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\AvPullStream.cpp(119,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\AvPullStream.cpp(236,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\AvPullStream.cpp(279,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  AvPushStream.cpp
+E:\Project\bxc\BXC_ClipVideo\3rdparty\windows\ffmpeg\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(61,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(73,73): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(90,69): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Common.h(122,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\AvPushStream.cpp(322,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\AvPushStream.cpp(418,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ControlExecutor.cpp
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(61,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(73,73): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(90,69): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Common.h(122,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\3rdparty\windows\ffmpeg\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\ControlExecutor.cpp(109,30): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  Request.cpp
+  main.cpp
+  正在生成代码...
+  ClipVideo.vcxproj -> E:\Project\bxc\BXC_ClipVideo\x64\Debug\ClipVideo.exe

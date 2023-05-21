@@ -1,0 +1,11 @@
+﻿  Analyzer.cpp
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(61,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(73,73): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+E:\Project\bxc\BXC_ClipVideo\ClipVideo\Core\Utils\Base64.h(90,69): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  main.cpp
+  正在生成代码
+  1 of 859 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ClipVideo.vcxproj -> E:\Project\bxc\BXC_ClipVideo\x64\Release\ClipVideo.exe
